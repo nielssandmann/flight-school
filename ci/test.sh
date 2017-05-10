@@ -4,6 +4,6 @@ sadjfa
 set -e -x
 
 pushd flight-school
-  bundle install
+  bundle installsdf
   bundle exec rspec
 popd
